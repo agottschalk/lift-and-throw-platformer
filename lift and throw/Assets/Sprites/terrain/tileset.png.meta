@@ -1,0 +1,1343 @@
+fileFormatVersion: 2
+guid: a1f6444f57fc83f42baec972ddcbed47
+timeCreated: 1479009965
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tileset_0
+    21300002: grassy_floating_platform
+    21300004: tree
+    21300006: floatingPlatform_left
+    21300008: floatingPlatform_middle
+    21300010: floatingPlatform_right
+    21300012: floating_rock_small
+    21300014: floating_rock_large
+    21300016: tileset_8
+    21300018: tileset_9
+    21300020: tileset_10
+    21300022: floating_platform_48x39
+    21300024: rock_w_plant_0
+    21300026: tileset_13
+    21300028: tileset_14
+    21300030: tileset_15
+    21300032: tileset_16
+    21300034: tileset_17
+    21300036: stone_1
+    21300038: tileset_19
+    21300040: tileset_20
+    21300042: blank_cliff_face_large
+    21300044: rock_no_plant
+    21300046: grass_0
+    21300048: grass_1
+    21300050: grass_2
+    21300052: grass_3
+    21300054: stone_0
+    21300056: stone_2
+    21300058: right_cliff_2
+    21300060: bridge_left
+    21300062: bridge_middle
+    21300064: bridge_right
+    21300066: tileset_33
+    21300068: cliff_face_bush
+    21300070: cliff_face_brown_rock
+    21300072: cliff_face_blue_rock
+    21300074: slope_up
+    21300076: 2_wide_1
+    21300078: slope_down
+    21300080: rock_w_plant_1
+    21300082: tileset_41
+    21300084: tileset_42
+    21300086: floating_platform_98x76
+    21300088: tree
+    21300090: bottom_32_wide
+    21300092: bottom_16_wide
+    21300094: tileset_5
+    21300096: stone_w_plant
+    21300098: grass_0
+    21300100: grass_1
+    21300102: grass_transition_32x22
+    21300104: grass_16_wide
+    21300106: stone_32_wide_0
+    21300108: stone_16_wide_0
+    21300110: bridge_left
+    21300112: bridge_middle
+    21300114: bridge_right
+    21300116: left_grass_edge_little_40x54
+    21300118: left_cliff_B_48x16
+    21300120: right_cliff_0
+    21300122: tileset_46
+    21300124: left_cliff_T_48x16
+    21300126: left_grass_edge_big_96x79
+    21300128: blank_cliff_face_small
+    21300130: right_grass_edge
+    21300132: right_cliff_1
+    21300134: left_cliff_M_48x16
+    21300136: tileset_53
+    21300138: tileset_54
+    21300140: tileset_55
+    21300142: tileset_56
+    21300144: tileset_57
+    21300146: tileset_58
+    21300148: tileset_59
+    21300150: tileset_60
+    21300152: tileset_61
+    21300154: tileset_62
+    21300156: tileset_63
+    21300158: tileset_64
+    21300160: tileset_65
+    21300162: tileset_66
+    21300164: tileset_67
+    21300166: tileset_68
+    21300168: tileset_69
+    21300170: tileset_70
+    21300172: tileset_71
+    21300174: tileset_72
+    21300176: tileset_73
+    21300178: tileset_74
+    21300180: tileset_75
+    21300182: tileset_76
+    21300184: tileset_77
+    21300186: tileset_78
+    21300188: tileset_79
+    21300190: tileset_80
+    21300192: tileset_81
+    21300194: tileset_82
+    21300196: tileset_83
+    21300198: tileset_84
+    21300200: tileset_85
+    21300202: tileset_86
+    21300204: tileset_87
+    21300206: tileset_88
+    21300208: tileset_89
+    21300210: tileset_90
+    21300212: tileset_91
+    21300214: tileset_92
+    21300216: tileset_93
+    21300218: tileset_94
+    21300220: tileset_95
+    21300222: tileset_96
+    21300224: tileset_97
+    21300226: tileset_98
+    21300228: tileset_99
+    21300230: tileset_100
+    21300232: tileset_101
+    21300234: tileset_102
+    21300236: tileset_103
+    21300238: tileset_104
+    21300240: tileset_105
+    21300242: tileset_106
+    21300244: tileset_107
+    21300246: tileset_108
+    21300248: tileset_109
+    21300250: tileset_110
+    21300252: tileset_111
+    21300254: tileset_112
+    21300256: tileset_113
+    21300258: tileset_114
+    21300260: tileset_115
+    21300262: tileset_116
+    21300264: tileset_117
+    21300266: tileset_118
+    21300268: tileset_119
+    21300270: tileset_120
+    21300272: tileset_121
+    21300274: tileset_122
+    21300276: tileset_123
+    21300278: tileset_124
+    21300280: tileset_125
+    21300282: tileset_126
+    21300284: tileset_127
+    21300286: tileset_128
+    21300288: tileset_129
+    21300290: tileset_130
+    21300292: tileset_131
+    21300294: tileset_132
+    21300296: tileset_133
+    21300298: tileset_134
+    21300300: tileset_135
+    21300302: tileset_136
+    21300304: tileset_137
+    21300306: tileset_138
+    21300308: tileset_139
+    21300310: tileset_140
+    21300312: tileset_141
+    21300314: tileset_142
+    21300316: tileset_143
+    21300318: tileset_144
+    21300320: tileset_145
+    21300322: tileset_146
+    21300324: tileset_147
+    21300326: tileset_148
+    21300328: tileset_149
+    21300330: tileset_150
+    21300332: tileset_151
+    21300334: tileset_152
+    21300336: tileset_153
+    21300338: tileset_154
+    21300340: tileset_155
+    21300342: tileset_156
+    21300344: tileset_157
+    21300346: tileset_158
+    21300348: tileset_159
+    21300350: tileset_160
+    21300352: tileset_161
+    21300354: tileset_162
+    21300356: tileset_163
+    21300358: tileset_164
+    21300360: tileset_165
+    21300362: tileset_166
+    21300364: tileset_167
+    21300366: tileset_168
+    21300368: tileset_169
+    21300370: tileset_170
+    21300372: tileset_171
+    21300374: tileset_172
+    21300376: tileset_173
+    21300378: tileset_174
+    21300380: tileset_175
+    21300382: tileset_176
+    21300384: tileset_177
+    21300386: tileset_178
+    21300388: tileset_179
+    21300390: tileset_180
+    21300392: tileset_182
+    21300394: tileset_183
+    21300396: tileset_184
+    21300398: tileset_185
+    21300400: tileset_186
+    21300402: tileset_187
+    21300404: tileset_188
+    21300406: tileset_189
+    21300408: tileset_190
+    21300410: tileset_191
+    21300412: tileset_192
+    21300414: tileset_193
+    21300416: tileset_194
+    21300418: tileset_195
+    21300420: tileset_196
+    21300422: tileset_197
+    21300424: tileset_198
+    21300426: tileset_199
+    21300428: tileset_200
+    21300430: tileset_201
+    21300432: tileset_202
+    21300434: tileset_203
+    21300436: tileset_204
+    21300438: tileset_205
+    21300440: tileset_206
+    21300442: tileset_208
+    21300444: tileset_209
+    21300446: tileset_210
+    21300448: tileset_211
+    21300450: tileset_212
+    21300452: tileset_213
+    21300454: tileset_214
+    21300456: tileset_215
+    21300458: tileset_216
+    21300460: tileset_217
+    21300462: tileset_218
+    21300464: tileset_219
+    21300466: tileset_220
+    21300468: tileset_221
+    21300470: tileset_222
+    21300472: tileset_223
+    21300474: tileset_224
+    21300476: tileset_225
+    21300478: tileset_226
+    21300480: tileset_227
+    21300482: tileset_228
+    21300484: tileset_229
+    21300486: tileset_230
+    21300488: tileset_231
+    21300490: tileset_232
+    21300492: tileset_233
+    21300494: tileset_234
+    21300496: tileset_235
+    21300498: tileset_236
+    21300500: tileset_237
+    21300502: tileset_238
+    21300504: tileset_239
+    21300506: tileset_240
+    21300508: tileset_241
+    21300510: tileset_242
+    21300512: tileset_243
+    21300514: tileset_244
+    21300516: tileset_245
+    21300518: tileset_246
+    21300520: tileset_247
+    21300522: tileset_248
+    21300524: tileset_249
+    21300526: tileset_250
+    21300528: tileset_251
+    21300530: tileset_252
+    21300532: tileset_253
+    21300534: tileset_254
+    21300536: tileset_255
+    21300538: tileset_256
+    21300540: tileset_257
+    21300542: tileset_258
+    21300544: tileset_259
+    21300546: tileset_260
+    21300548: tileset_261
+    21300550: tileset_262
+    21300552: tileset_263
+    21300554: tileset_264
+    21300556: tileset_265
+    21300558: tileset_266
+    21300560: tileset_267
+    21300562: tileset_268
+    21300564: tileset_269
+    21300566: tileset_270
+    21300568: tileset_271
+    21300570: tileset_272
+    21300572: tileset_273
+    21300574: tileset_274
+    21300576: tileset_275
+    21300578: tileset_276
+    21300580: tileset_277
+    21300582: tileset_278
+    21300584: tileset_279
+    21300586: tileset_280
+    21300588: tileset_281
+    21300590: tileset_282
+    21300592: tileset_283
+    21300594: tileset_284
+    21300596: tileset_285
+    21300598: tileset_286
+    21300600: tileset_287
+    21300602: tileset_288
+    21300604: tileset_289
+    21300606: tileset_290
+    21300608: tileset_291
+    21300610: tileset_292
+    21300612: tileset_293
+    21300614: tileset_294
+    21300616: tileset_295
+    21300618: tileset_296
+    21300620: tileset_297
+    21300622: tileset_298
+    21300624: tileset_299
+    21300626: tileset_300
+    21300628: tileset_301
+    21300630: tileset_302
+    21300632: tileset_303
+    21300634: tileset_304
+    21300636: tileset_305
+    21300638: tileset_306
+    21300640: tileset_307
+    21300642: tileset_308
+    21300644: tileset_309
+    21300646: tileset_310
+    21300648: tileset_311
+    21300650: tileset_312
+    21300652: tileset_313
+    21300654: tileset_314
+    21300656: tileset_315
+    21300658: tileset_316
+    21300660: tileset_317
+    21300662: tileset_318
+    21300664: tileset_319
+    21300666: tileset_320
+    21300668: tileset_321
+    21300670: tileset_322
+    21300672: tileset_323
+    21300674: tileset_324
+    21300676: tileset_325
+    21300678: tileset_326
+    21300680: tileset_327
+    21300682: tileset_328
+    21300684: tileset_329
+    21300686: tileset_330
+    21300688: tileset_331
+    21300690: tileset_332
+    21300692: tileset_333
+    21300694: tileset_334
+    21300696: tileset_335
+    21300698: tileset_336
+    21300700: tileset_337
+    21300702: tileset_338
+    21300704: tileset_339
+    21300706: tileset_340
+    21300708: tileset_341
+    21300710: tileset_342
+    21300712: tileset_343
+    21300714: tileset_344
+    21300716: tileset_345
+    21300718: tileset_346
+    21300720: tileset_347
+    21300722: tileset_348
+    21300724: tileset_349
+    21300726: tileset_350
+    21300728: tileset_351
+    21300730: tileset_352
+    21300732: tileset_353
+    21300734: tileset_354
+    21300736: tileset_355
+    21300738: tileset_356
+    21300740: tileset_357
+    21300742: tileset_358
+    21300744: tileset_359
+    21300746: tileset_360
+    21300748: tileset_361
+    21300750: tileset_362
+    21300752: tileset_363
+    21300754: tileset_364
+    21300756: tileset_365
+    21300758: tileset_366
+    21300760: tileset_367
+    21300762: tileset_368
+    21300764: tileset_369
+    21300766: tileset_370
+    21300768: tileset_371
+    21300770: tileset_372
+    21300772: tileset_373
+    21300774: tileset_374
+    21300776: tileset_375
+    21300778: tileset_376
+    21300780: tileset_377
+    21300782: tileset_378
+    21300784: tileset_379
+    21300786: tileset_380
+    21300788: tileset_381
+    21300790: tileset_382
+    21300792: tileset_383
+    21300794: tileset_384
+    21300796: tileset_385
+    21300798: tileset_386
+    21300800: tileset_387
+    21300802: tileset_388
+    21300804: tileset_389
+    21300806: tileset_390
+    21300808: tileset_391
+    21300810: tileset_392
+    21300812: tileset_393
+    21300814: tileset_394
+    21300816: tileset_395
+    21300818: tileset_396
+    21300820: tileset_397
+    21300822: tileset_398
+    21300824: tileset_399
+    21300826: tileset_400
+    21300828: tileset_401
+    21300830: tileset_402
+    21300832: tileset_403
+    21300834: tileset_404
+    21300836: tileset_405
+    21300838: tileset_406
+    21300840: tileset_407
+    21300842: tileset_408
+    21300844: tileset_409
+    21300846: tileset_410
+    21300848: tileset_411
+    21300850: tileset_412
+    21300852: tileset_413
+    21300854: tileset_414
+    21300856: tileset_415
+    21300858: tileset_416
+    21300860: tileset_417
+    21300862: tileset_418
+    21300864: tileset_419
+    21300866: tileset_420
+    21300868: tileset_421
+    21300870: tileset_422
+    21300872: tileset_423
+    21300874: tileset_424
+    21300876: tileset_425
+    21300878: tileset_426
+    21300880: tileset_427
+    21300882: tileset_428
+    21300884: tileset_429
+    21300886: tileset_430
+    21300888: tileset_431
+    21300890: tileset_432
+    21300892: tileset_433
+    21300894: tileset_434
+    21300896: tileset_435
+    21300898: tileset_436
+    21300900: tileset_437
+    21300902: tileset_438
+    21300904: tileset_439
+    21300906: tileset_440
+    21300908: tileset_441
+    21300910: tileset_442
+    21300912: tileset_443
+    21300914: tileset_444
+    21300916: tileset_445
+    21300918: tileset_446
+    21300920: tileset_447
+    21300922: tileset_448
+    21300924: tileset_449
+    21300926: tileset_450
+    21300928: tileset_451
+    21300930: tileset_452
+    21300932: tileset_453
+    21300934: tileset_454
+    21300936: tileset_455
+    21300938: tileset_456
+    21300940: tileset_457
+    21300942: tileset_458
+    21300944: tileset_459
+    21300946: tileset_460
+    21300948: tileset_461
+    21300950: tileset_462
+    21300952: tileset_463
+    21300954: right_stone_edge
+    21300956: left_bottom_corner
+    21300958: stone_16_wide_1
+    21300960: left_stone_edge
+    21300962: right_bottom_corner
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: floating_platform_98x76
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 220
+        width: 98
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: 76}
+        - {x: -49, y: 39}
+        - {x: -24, y: 3}
+        - {x: -14, y: 0}
+        - {x: 31, y: 0}
+        - {x: 49, y: 49}
+        - {x: 49, y: 76}
+    - name: tree
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 160
+        width: 123
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.5, y: 114}
+        - {x: -61.5, y: 97}
+        - {x: -61.5, y: 32}
+        - {x: -3.5, y: 0}
+        - {x: 23.5, y: 0}
+        - {x: 61.5, y: 55}
+        - {x: 61.5, y: 104}
+        - {x: 40.5, y: 114}
+    - name: bottom_32_wide
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 176
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 32}
+        - {x: 0, y: 5}
+        - {x: 4, y: 2}
+        - {x: 31, y: 2}
+        - {x: 32, y: 3}
+        - {x: 32, y: 32}
+    - name: bottom_16_wide
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 176
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: floating_rock_small
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -15}
+        - {x: -14, y: -16}
+        - {x: 8, y: -16}
+        - {x: 16, y: -6}
+        - {x: 16, y: 16}
+    - name: floating_rock_large
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 232
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 16}
+        - {x: -24, y: -16}
+        - {x: 20, y: -16}
+        - {x: 24, y: -14}
+        - {x: 24, y: 16}
+    - name: tileset_8
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 224
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 48}
+        - {x: -24, y: 0}
+        - {x: 24, y: 0}
+        - {x: 24, y: 48}
+    - name: tileset_9
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 240
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tileset_10
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 240
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: floating_platform_48x39
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 48
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 39}
+        - {x: -24, y: 37}
+        - {x: -24, y: 5}
+        - {x: -19, y: 1}
+        - {x: -16, y: 2}
+        - {x: -15, y: 0}
+        - {x: 24, y: 0}
+        - {x: 24, y: 39}
+    - name: rock_w_plant_0
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 32
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 55}
+        - {x: -10, y: 55}
+        - {x: -16, y: 52}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 39}
+        - {x: 14, y: 48}
+    - name: tileset_13
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 176
+        width: 64
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 40}
+        - {x: -32, y: 26}
+        - {x: -32, y: 0}
+        - {x: 32, y: 0}
+        - {x: 32, y: 25}
+        - {x: 24, y: 40}
+    - name: tileset_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tileset_15
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 176
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 32}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 32}
+    - name: tileset_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 32}
+        - {x: -16, y: 7}
+        - {x: -15, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 32}
+    - name: tileset_17
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 32}
+        - {x: -16, y: 32}
+        - {x: -16, y: 0}
+        - {x: 14, y: 0}
+        - {x: 16, y: 5}
+        - {x: 16, y: 30}
+    - name: stone_w_plant
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 112
+        width: 32
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 42}
+        - {x: -16, y: 39}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 42}
+    - name: tileset_19
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 144
+        width: 44
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 32}
+        - {x: -16, y: 20}
+        - {x: -22, y: 7}
+        - {x: -22, y: 0}
+        - {x: 22, y: 0}
+        - {x: 22, y: 32}
+    - name: tileset_20
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 144
+        width: 44
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 32}
+        - {x: -22, y: 32}
+        - {x: -22, y: 0}
+        - {x: 22, y: 0}
+        - {x: 22, y: 5}
+        - {x: 16, y: 21}
+    - name: blank_cliff_face_large
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 32}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 32}
+    - name: rock_no_plant
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 32
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 41}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 41}
+    - name: grass_0
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 48
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 38}
+        - {x: -24, y: 0}
+        - {x: 24, y: 0}
+        - {x: 24, y: 38}
+    - name: grass_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 44}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 43}
+        - {x: 15, y: 44}
+    - name: grass_transition_32x22
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 112
+        width: 32
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: grass_16_wide
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 112
+        width: 16
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: stone_32_wide_0
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 112
+        width: 32
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: stone_16_wide_0
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 112
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: right_cliff_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 48
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bridge_left
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 102
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bridge_middle
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 102
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bridge_right
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 102
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tileset_33
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 16
+        width: 96
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 112}
+        - {x: -48, y: 0}
+        - {x: 48, y: 0}
+        - {x: 48, y: 112}
+    - name: cliff_face_bush
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 32}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 32}
+    - name: cliff_face_brown_rock
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 64}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 64}
+    - name: cliff_face_blue_rock
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 64
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: 0}
+        - {x: 32, y: 0}
+        - {x: 32, y: 32}
+    - name: slope_up
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 48
+        width: 32
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 36}
+        - {x: -16, y: 24}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 36}
+    - name: 2_wide_1
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 48
+        width: 32
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 40}
+        - {x: -16, y: 40}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 38}
+        - {x: 14, y: 39}
+    - name: slope_down
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 48
+        width: 32
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 36}
+        - {x: -16, y: 36}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 23}
+        - {x: 12, y: 28}
+    - name: rock_w_plant_1
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 32
+        width: 32
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 45}
+        - {x: -16, y: 42}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 45}
+    - name: tileset_41
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 32
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 24}
+        - {x: -32, y: -16}
+        - {x: -32, y: -24}
+        - {x: 32, y: -24}
+        - {x: 32, y: 24}
+    - name: tileset_42
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 32
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: -14}
+        - {x: -5, y: 24}
+    - name: left_cliff_B_48x16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 48
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: left_cliff_T_48x16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 48
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: left_grass_edge_big_96x79
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 96
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 79}
+        - {x: -46, y: 67}
+        - {x: -46, y: 10}
+        - {x: -44, y: 1}
+        - {x: -40, y: 0}
+        - {x: 48, y: 0}
+        - {x: 48, y: 73}
+        - {x: 37, y: 79}
+    - name: blank_cliff_face_small
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: left_grass_edge_little_40x54
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 40
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 54}
+        - {x: -18, y: 4}
+        - {x: -8, y: 0}
+        - {x: 20, y: 0}
+        - {x: 20, y: 54}
+    - name: right_cliff_0
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 80
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: right_grass_edge
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 96
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 19}
+        - {x: -24, y: -19}
+        - {x: 15, y: -19}
+        - {x: 22, y: -9}
+        - {x: 22, y: 14}
+        - {x: 16, y: 19}
+    - name: right_cliff_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: left_cliff_M_48x16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 48
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: left_bottom_corner
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 176
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 32}
+        - {x: 14, y: 24}
+        - {x: 17, y: 21}
+        - {x: 28, y: 14}
+        - {x: 31, y: 14}
+        - {x: 32, y: 15}
+        - {x: 32, y: 32}
+    - name: stone_16_wide_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 16
+        height: 21
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: left_stone_edge
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 64
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 53}
+        - {x: 3, y: 50}
+        - {x: 3, y: 22}
+        - {x: 5, y: 9}
+        - {x: 13, y: 0}
+        - {x: 64, y: 0}
+        - {x: 64, y: 53}
+    - name: right_bottom_corner
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 176
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 32}
+        - {x: 0, y: 32}
+        - {x: 0, y: 15}
+        - {x: 1, y: 14}
+        - {x: 4, y: 14}
+        - {x: 11, y: 17}
+        - {x: 18, y: 24}
+    - name: right_stone_edge
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 224
+        width: 64
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 53}
+        - {x: 0, y: 0}
+        - {x: 53, y: 0}
+        - {x: 61, y: 3}
+        - {x: 61, y: 53}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
